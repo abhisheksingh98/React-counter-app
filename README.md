@@ -1,3 +1,3 @@
 # React-counter-app
 
-This a basic counter application made using ReactJS.
+This a counter application made using ReactJS.
